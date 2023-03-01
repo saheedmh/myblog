@@ -1,0 +1,10 @@
+.btnllclass{
+    display: flex;
+    padding: 10px;
+    font-size:20px;
+    background-color: white;
+
+} 
+.btnclass:hover{
+color: white;
+}

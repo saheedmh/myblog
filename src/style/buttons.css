@@ -1,0 +1,8 @@
+.btncl{
+    display: flex;
+    padding: 10px;
+    font-size:18px;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+} 
